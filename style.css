@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 
-
 body{
     width: 100vw;
     height: 100vh;
@@ -15,4 +14,48 @@ body{
     background-position: center;
     background-color: #00000080;
     background-blend-mode: darken;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+}
+
+h1{
+    font-size: 100px;
+    color: #f2f2f2;
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+p.desc{
+    font-size: 50px;
+    color: #f2f2f2;
+    font-style: italic;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+button#learn-more{
+    width: 200px;
+    height: 40px;
+    margin-top: 20px;
+
+    background-color: #fae12c;
+
+    border-style: none;
+    border-radius: 5px;
+
+    cursor: pointer;
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
 }
