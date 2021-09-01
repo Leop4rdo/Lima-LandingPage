@@ -1,6 +1,6 @@
 # Lima Landing Page
 
-<img src="ite.png" width="750"/>
+<img src="Site.png" width="750"/>
 
 Projeto construido durante as aulas de "lima", no <a href="https://jandira.sp.senai.br/">Senai - Jandira</a>, com o <a href="https://github.com/fernandoleonid">Prof° Leonid</a>, no curso de desenvolvimento de Sistemas.
 
