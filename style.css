@@ -46,7 +46,7 @@ p.desc {
 .btns {
     display: flex;
     justify-content: center;
-    border-top: white solid 1px;
+    border-top: white solid 2px;
 }
 
 a.btn_social {
