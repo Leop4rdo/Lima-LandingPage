@@ -82,7 +82,7 @@ a.btn_social img {
     width: 40px;
 }
 
-@media (max-width: 42px) {
+@media (max-width: 425px) {
     .btns {
         flex-direction: column;
     }
